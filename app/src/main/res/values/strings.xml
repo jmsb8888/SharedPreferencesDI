@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hilt Gradle Implementation</string>
+    <string name="cantidad_de_visitas">Cantidad de visitas: %d</string>
+</resources>
